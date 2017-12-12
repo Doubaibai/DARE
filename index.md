@@ -5,6 +5,7 @@ We present a system for covert automated deception detection using information a
 ## [Demo](http://www.cs.dartmouth.edu/~mbolonkin/dare/demo/)
 
 Try our demo! You can select load to see our prediction. Also check the predictions under different modalities!
+
 [![Imgur](https://i.imgur.com/UjOZCP8.png)](http://www.cs.dartmouth.edu/~mbolonkin/dare/demo/)
 
 ## Framework
