@@ -9,7 +9,7 @@ Try our demo! You can select video, click upload to play the video. Also check p
 
 ## Framework
 
-![Image of Framework](https://Doubaibai.github.io/Framework2.png)
+![Image of Framework](https://i.imgur.com/1eIfH2F.png)
 
 ## Experimental Results
 
