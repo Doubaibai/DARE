@@ -9,7 +9,8 @@ Zhe Wu, Bharat Singh, Larry S. Davis, V. S. Subrahmanian
 
 [**Deception Detection in Videos**](https://arxiv.org/abs/1712.04415 )
 
-*in AAAI 2018*<space><space>
+*in AAAI 2018*
+
 ---
 
 ## [Demo](http://www.cs.dartmouth.edu/~mbolonkin/dare/demo/)
