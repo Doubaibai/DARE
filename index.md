@@ -5,10 +5,8 @@ We present a system for covert automated deception detection using information a
 ---
 
 ## Paper
-Zhe Wu, Bharat Singh, Larry S. Davis, V. S. Subrahmanian
-
-[**Deception Detection in Videos**](https://arxiv.org/abs/1712.04415 )
-
+Zhe Wu, Bharat Singh, Larry S. Davis, V. S. Subrahmanian  
+[**Deception Detection in Videos**](https://arxiv.org/abs/1712.04415)  
 *in AAAI 2018*
 
 ---
