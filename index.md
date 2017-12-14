@@ -11,7 +11,7 @@ Zhe Wu, Bharat Singh, Larry S. Davis, V. S. Subrahmanian
 ---
 ## [Demo](http://www.cs.dartmouth.edu/~mbolonkin/dare/demo/)
 
-Try our demo! You can select a video and click load to see our prediction. Also check the predictions under different modalities! We also show scores for other videos in the same validation split. Predictions of different micro-expressions are also presented.
+Try our demo! You can select a video and click load to see our prediction. Also check the predictions under different modalities! We also show scores for other videos in the same validation split. Predictions of different micro-expressions are also presented. Thanks for [Maksim Bolonkin](http://www.cs.dartmouth.edu/~mbolonkin/)'s help!
 
 [![Imgur](https://i.imgur.com/Bg8wG3b.png)](http://www.cs.dartmouth.edu/~mbolonkin/dare/demo/)
 
