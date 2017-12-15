@@ -10,17 +10,12 @@ Zhe Wu, Bharat Singh, Larry S. Davis, V. S. Subrahmanian
 
 ---
 ## Micro-Expression
-We show 5 micro-expression clips and Improved Dense Trajectories which were investigated in our project. 
+
 ### Eyebrows Frown
-<video src="http://www.umiacs.umd.edu/~zhewu/MicroExpressionClips/F.mp4" width="640" height="200" controls preload></video>
 ### Eyebrows Raise
-<video src="http://www.umiacs.umd.edu/~zhewu/MicroExpressionClips/R.mp4" width="640" height="200" controls preload></video>
 ### Lips Up
-<video src="http://www.umiacs.umd.edu/~zhewu/MicroExpressionClips/U.mp4" width="640" height="200" controls preload></video>
 ### Lips Protruded
-<video src="http://www.umiacs.umd.edu/~zhewu/MicroExpressionClips/P.mp4" width="640" height="200" controls preload></video>
 ### Head Side Turn
-<video src="http://www.umiacs.umd.edu/~zhewu/MicroExpressionClips/H.mp4" width="640" height="200" controls preload></video>
 
 ---
 ## [Demo](http://www.cs.dartmouth.edu/~mbolonkin/dare/demo/)
